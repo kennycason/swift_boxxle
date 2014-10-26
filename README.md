@@ -7,7 +7,7 @@ I really tried hard not to use the Virtual D-Pad, per reading many blogs on mobi
 
 This port features:
 
-1. 40 levels from the original Boxxle (GameBoy)
+1. 40 levels from the original Boxxle (Game Boy)
 2. Touch [next] to go to the next level
 3. Touch [reset] to reset the level in case you make a mistake
 4. Step counter for each level
