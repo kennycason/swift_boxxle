@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5BC634A9-CB8C-4B66-B06F-AC454B1CA635</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftBoxxle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4C214F9EFF232C2BA3BFF6CC1602CC2220AD6E8F</key>
+		<string>github.com:kennycason/swift_ninja.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftBoxxle.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4C214F9EFF232C2BA3BFF6CC1602CC2220AD6E8F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kennycason/swift_ninja.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4C214F9EFF232C2BA3BFF6CC1602CC2220AD6E8F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4C214F9EFF232C2BA3BFF6CC1602CC2220AD6E8F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swiftBoxxle</string>
+		</dict>
+	</array>
+</dict>
+</plist>
